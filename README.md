@@ -122,3 +122,7 @@ https://www.machinelearnguru.com/how-to-use-comments-effectively-in-python
 https://www.33rdsquare.com/comments-in-python/
 https://peps.python.org/pep-0008/
 https://peps.python.org/pep-0257/
+
+### source file sources
+https://github.com/Python-World/python-mini-projects
+https://github.com/ml-tooling/best-of-python
