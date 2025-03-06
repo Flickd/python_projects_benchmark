@@ -1,5 +1,5 @@
 # Smartautomation Benchmark
-This benchmark provides a total of_______ python files, categorized depending on the size of the file, ... . This benchmark can be used to assess the quality of a commenting tool for python files.
+This benchmark provides a total of_______ python files, categorized depending on the size of the file, ... . This benchmark can be used to assess the quality of a commenting tool for python files. We can let Smartautomation comment a medium or large file and than compare it to the original, which are all well commented. I still have the originals, i just didnt push them, would make the repo unnecessarily large. The small files were not commented well or at all, there we need to interpret the result ourselves.
 
 
 ## Benchmark evaluation
